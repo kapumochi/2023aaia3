@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-int a[10000];
+int a[10000];//二維矩陣合併為一維矩陣
 
 int main()
 {
